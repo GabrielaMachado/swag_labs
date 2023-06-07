@@ -11,3 +11,7 @@ Para generar el reporte se debe ejecutar el siguiente comando
   - npm run html-report
   puedes ver la ux selecionando index.html en la carpeta reports del proyecto, click derecho -> Reveal in File Explorer, luego ver el archivo desde el explorador,
   también evidencia de video y screenshots en las carpetas del proyecto.
+  
+  
+ Casos de prueba: *Casos de prueba Swag Labs.xlsx*
+ Bug: *BUG_01.docx*
